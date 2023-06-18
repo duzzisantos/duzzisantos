@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duzzisantos
-- 👀 I’m interested in React and Node JS
+- 👀 I build apps with React, NodeJS, Express, MongoDB, MySQL, Bootstrap, Material UI, SCSS, and TypeScript
 
 <!---
 duzzisantos/duzzisantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
