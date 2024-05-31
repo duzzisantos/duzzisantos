@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duzzisantos
-- 👀 I build apps with JavaScript, Java, and Python
+- 👀 I build apps with JavaScript, Java, and Python, React, Node
 - You may want to check out some of my projects here:
 - - Keffi - A HR Analytics application for appraising employees monthly and yearly https://keffi-frontend.vercel.app
   - Ventorify - an inventory management system for stowing goods into the warehouse shelf, transferring to store shelf, and tracking customer sales and orders - https://ventorify-frontend.vercel.app
