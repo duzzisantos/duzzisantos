@@ -8,7 +8,7 @@ I work mostly in **Python** and **TypeScript**, with a focus on backend services
 
 ### What I've been working on
 
-- **[postgresql-query-service](https://github.com/duzzisantos/postgresql-query-service)** — A FastAPI-based internal tool for database manipulation with a custom query builder, connection pooling, Redis caching, and rate limiting. 40+ endpoints, built for production use.
+- **[postgresql-query-service](https://github.com/duzzisantos/postgresql-query-service)** — A FastAPI-based internal tool for database manipulation with a custom query builder, connection pooling, Redis caching, and rate limiting. 40+ endpoints, built for production use. [Live demo here.](https://postgresql-query-frontend.vercel.app)
 
 - **[software-estimation-frontend](https://github.com/duzzisantos/software-estimation-frontend)** — A TypeScript UI for software project estimation using PERT methodology and neural networks to reduce bias in time predictions. [Live demo here.](https://software-project-estimation.vercel.app)
 
