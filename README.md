@@ -1,28 +1,27 @@
-# 👋 Hi, I'm Duzie! 
+# Hi, I'm Duzie
 
-### 🚀 Software Developer | Building Scalable Full-Stack Solutions
+**Software Developer** based in Germany, building enterprise applications across the full stack.
 
-I'm a passionate developer focused on crafting efficient backend architectures and responsive user experiences. I specialize in the **JavaScript/TypeScript** and **Python** ecosystems, bridging the gap between robust data management and seamless user interfaces.
-
----
-
-### 💻 My Tech Stack & Toolkit
-
-*   **Backend & Architecture:** Python, JavaScript (ES6+), Node.js, RESTful APIs, Microservices
-*   **Frontend Magic:** TypeScript, React.js, Next.js, HTML5, CSS3/Tailwind
-*   **Databases & DevOps:** PostgreSQL, MongoDB, Git & GitHub, CI/CD pipelines
-*   **Methodologies:** Agile/Scrum, Clean Code, MVC Architecture, Test-Driven Development (TDD)
+I work mostly in **Python** and **TypeScript**, with a focus on backend services, data systems, and the frontends that tie them together. My projects tend to sit at the intersection of practical tooling and applied ML — things like [estimating task completion times with less bias](https://github.com/duzzisantos/software-estimation-frontend) or [evaluating supply chain risk using weather and news data](https://github.com/duzzisantos/supply-chain-risk-manager).
 
 ---
 
-### 🛠️ Featured Projects & Focus Areas
+### What I've been working on
 
-*   **⚡ High-Performance Backends:** Designing optimized, relational database schemas and queries (check out my `postgresql-query-service`).
-*   **🌐 End-to-End Applications:** Architecting decoupled frontend and backend applications with a focus on state management and performance.
-*   **🔧 Automation & Tooling:** Writing clean, reusable scripts and services to automate workflows and optimize data processing.
+- **[postgresql-query-service](https://github.com/duzzisantos/postgresql-query-service)** — A FastAPI-based internal tool for database manipulation with a custom query builder, connection pooling, Redis caching, and rate limiting. 40+ endpoints, built for production use.
+
+- **[software-estimation-frontend](https://github.com/duzzisantos/software-estimation-frontend)** — A TypeScript UI for software project estimation using PERT methodology and neural networks to reduce bias in time predictions. [Live demo here.](https://software-project-estimation.vercel.app)
+
+- **[react-file-sentinel](https://github.com/duzzisantos/react-file-sentinel)** — A file scanner for React forms that validates submissions and quarantines suspicious files.
 
 ---
 
-*   🎯 **Current Goal:** Leveling up on cloud-native architectures and system design.
+### Stack
 
-*“Simplicity is the ultimate sophistication.” — Let's build something great together!*
+**Backend:** Python, FastAPI, Node.js, PostgreSQL, Redis, Docker
+**Frontend:** TypeScript, React, Next.js
+**Other:** Java (earlier projects), some ML work with TensorFlow and RNNs
+
+---
+
+[duzie.dev](https://duzie.dev)
